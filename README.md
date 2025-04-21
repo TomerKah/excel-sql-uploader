@@ -1,4 +1,5 @@
 # Excel to SQL Uploader
+![App Screenshot](screenshot.png)
 
 A lightweight Streamlit web app for uploading Excel files and inserting their contents into a SQL Server database.
 
